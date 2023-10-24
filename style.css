@@ -138,15 +138,20 @@ footer p {
 #indexside {
   margin-top:0%;
 }
-
-iframe {
-  margin-top:3.25%;
-  margin-bottom:3.25%;
-  border-color:lightgrey;
-  border-width:3px;
-}
 .linktosign{
   color: #dbf4ff;
+}
+
+#sign-up-form-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+#sign-up-form {
+  height: 600px;
+  border: none;
+  margin: 0 0 40px 0;
 }
 
 /* ----- CONSULTANTS PAGE ----- */
